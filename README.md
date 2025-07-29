@@ -1,39 +1,33 @@
-# Thymeleaf Web Application
+# First Day at DSi - Experience Documentation
 
-![Thymeleaf Logo](https://www.thymeleaf.org/images/thymeleaf.png)
+![DSi Experience Preview](./images/first_day.jpg)
 
-A Spring Boot web application using Thymeleaf template engine for server-side rendering.
+A simple website documenting our group's first day experience at DSi (DataSoft Systems Bangladesh).
 
 ## Features
 
-- Modern web interface with Thymeleaf templates
-- Spring Boot backend
-- Responsive design
-- Form handling and validation
-- Dynamic content rendering
-- MVC architecture implementation
+- Clean, responsive design
+- Organized documentation of our orientation day
+- Alphabetically listed group members
+- Detailed account of activities and observations
+- Highlighted company structure and facilities
 
-## Technologies
+## Contents
 
-- **Frontend**: 
-  - Thymeleaf 3.x
-  - HTML5, CSS3
-  - Bootstrap (optional)
-  
-- **Backend**:
-  - Spring Boot 2.x/3.x
-  - Spring MVC
-  - Spring Security (if implemented)
+1. Group members introduction
+2. Day's activities timeline
+3. Detailed experience with company units and facilities
+4. Memorable moments with photo documentation
 
-## Getting Started
+## Technologies Used
 
-### Prerequisites
-- Java JDK 11+
-- Maven 3.6+
-- Your favorite IDE (IntelliJ, Eclipse, etc.)
+- HTML5
+- CSS3 (internal stylesheet)
 
-### Installation
-1. Clone the repository:
+## Setup
+
+No installation required! Simply:
+
+1. Clone this repository
    ```bash
    git clone https://github.com/Refayatul/Thymeleaf.git
-   cd Thymeleaf
