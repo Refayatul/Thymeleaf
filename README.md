@@ -1,8 +1,6 @@
 # First Day at DSi - Experience Documentation
 
-![DSi Experience Preview](./images/first_day.jpg)
-
-A simple website documenting our group's first day experience at DSi (DataSoft Systems Bangladesh).
+A simple website documenting our group's first day experience at DSi (Dynamic Solution Innovators).
 
 ## Features
 
